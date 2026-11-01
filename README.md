@@ -14,7 +14,7 @@ $$m\ddot{x} = mg - \frac{k i^2}{x^2}$$
 
 Linearizing around the hover point $(x_0, i_0)$ gives
 
-$$\delta\ddot{x} = a\,\delta x - b\,\delta i, \qquad a = \frac{2k i_0^2}{m x_0^3}, \quad b = \frac{2k i_0}{m x_0^2}$$
+$$\delta\ddot{x} = a \delta x - b \delta i, \qquad a = \frac{2k i_0^2}{m x_0^3}, \quad b = \frac{2k i_0}{m x_0^2}$$
 
 and the open-loop transfer function
 
